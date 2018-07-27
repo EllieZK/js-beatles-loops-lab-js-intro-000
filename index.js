@@ -8,7 +8,7 @@ return Beatles;
 };
 
 function johnLennonFacts(facts){
-  var factsArray[];
+  var factsArray = [];
   var i = 0;
     (i<facts.length){factsArray.push(`${facts[i]}!!!`);
     i++;};
